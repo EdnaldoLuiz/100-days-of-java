@@ -2,10 +2,10 @@
 
 ## Desafios
 
-| Dia | Desafio | Recursos |
-|-----|---------|----------|
-| 1   | Gerando um número aleatório dentro de uma faixa específica. | - |
-| 2   | Formatando um objeto LocalDateTime. | - |
+| Dia | Desafio | Recursos | Status |
+|-----|---------|----------|--------|
+| 1   | Gerando um número aleatório dentro de uma faixa específica. | - | ✅ |
+| 2   | Formatando um objeto LocalDateTime. | - | ✅ |
 | 3   | Agendando uma tarefa para ser executada a cada 2 segundos. | - |
 | 4   | Removendo itens de uma Lista. | - |
 | 5   | Criando uma lista com itens filtrados de outras listas. | - |
