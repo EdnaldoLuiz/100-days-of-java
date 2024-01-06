@@ -9,7 +9,7 @@
 | 3   | Removendo itens de uma Lista. | - | ✅ |
 | 4   | Agendando uma tarefa para ser executada a cada 2 segundos. | ScheduledExecutorService, Executors | ✅ |
 | 5   | Criando uma lista com itens filtrados de outras listas. | - | ✅ |
-| 6   | Executando uma tarefa de forma assíncrona. | - |
+| 6   | Executando uma tarefa de forma assíncrona. | - | ✅ |
 | 7   | Formatando uma mensagem usando MessageFormat. | - |
 | 8   | Criando um pool de threads para executar tarefas simultaneamente e reutilizar threads. | - |
 | 9   | Criando um Enum valorizado. | - |
