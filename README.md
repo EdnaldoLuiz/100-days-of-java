@@ -12,7 +12,7 @@
 | 6   | Executando uma tarefa de forma assíncrona. | - | ✅ |
 | 7   | Formatando uma mensagem usando MessageFormat. | MessageFormat | ✅ |
 | 8   | Criando um pool de threads para executar tarefas simultaneamente e reutilizar threads. | - | ✅ |
-| 9   | Criando um Enum valorizado. | - |
+| 9   | Criando um Enum valorizado. | - | ✅ |
 | 10  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
 | 11  | Ordenando um java.util.Map pelos seus valores. | - |
 | 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future |
