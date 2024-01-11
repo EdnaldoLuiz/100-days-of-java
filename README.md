@@ -13,8 +13,8 @@
 | 7   | Formatando uma mensagem usando MessageFormat. | MessageFormat | ✅ |
 | 8   | Criando um pool de threads para executar tarefas simultaneamente e reutilizar threads. | - | ✅ |
 | 9   | Criando um Enum valorizado. | - | ✅ |
-| 10  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
-| 11  | Ordenando um java.util.Map pelos seus valores. | - |
+| 10  | Ordenando um java.util.Map pelos seus valores. | Map, streams | ✅ |
+| 11  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
 | 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future |
 | 13  | Criando um Singleton inicializado de forma preguiçosa. | - |
 | 14  | Nunca passe um double como argumento ao construir objetos BigDecimal. | - |
