@@ -14,7 +14,7 @@
 | 8   | Criando um pool de threads para executar tarefas simultaneamente e reutilizar threads. | - | ✅ |
 | 9   | Criando um Enum valorizado. | - | ✅ |
 | 10  | Ordenando um java.util.Map pelos seus valores. | Map, streams | ✅ |
-| 11  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
+| 11  | Invertendo uma String. | - | ✅ |
 | 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future |
 | 13  | Criando um Singleton inicializado de forma preguiçosa. | - |
 | 14  | Nunca passe um double como argumento ao construir objetos BigDecimal. | - |
@@ -23,7 +23,7 @@
 | 17  | Dividindo Strings. | - |
 | 18  | Encontrando o valor máximo de uma Coleção. | - |
 | 19  | Uma implementação de Map que mantém os elementos na mesma ordem que foram inseridos. | - |
-| 20  | Invertendo uma String. | - |
+| 20  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
 | 21  | Usando o WireMock para simular um servidor web. | WireMock |
 | 22  | Mapeando e reduzindo de uma Lista. | - |
 | 23  | Carregando propriedades de um arquivo. | - |
