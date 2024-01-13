@@ -15,7 +15,7 @@
 | 9   | Criando um Enum valorizado. | - | ✅ |
 | 10  | Ordenando um java.util.Map pelos seus valores. | Map, streams | ✅ |
 | 11  | Invertendo uma String. | - | ✅ |
-| 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future |
+| 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future | ✅ |
 | 13  | Criando um Singleton inicializado de forma preguiçosa. | - |
 | 14  | Nunca passe um double como argumento ao construir objetos BigDecimal. | - |
 | 15  | Padrão Builder. | - |
