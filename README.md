@@ -18,8 +18,8 @@
 | 12  | Utilizando Callable e Future para executar tarefas em paralelo. | Callable, Future | ✅ |
 | 13  | Juntando Strings. | - | ✅ |
 | 14  | Dividindo Strings. | - | ✅ |
-| 15  | Padrão Builder. | - |
-| 16  | Criando um Singleton inicializado de forma preguiçosa. | - |
+| 15  | Padrão Builder. | - | ✅ |
+| 16  | Criando um Singleton inicializado de forma preguiçosa. | - | ✅ |
 | 17  | Nunca passe um double como argumento ao construir objetos BigDecimal. | - |
 | 18  | Encontrando o valor máximo de uma Coleção. | - |
 | 19  | Uma implementação de Map que mantém os elementos na mesma ordem que foram inseridos. | - |
