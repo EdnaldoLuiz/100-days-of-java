@@ -21,7 +21,7 @@
 | 15  | Padrão Builder. | - | ✅ |
 | 16  | Criando um Singleton inicializado de forma preguiçosa. | - | ✅ |
 | 17  | Nunca passe um double como argumento ao construir objetos BigDecimal. | - | ✅ |
-| 18  | Encontrando o valor máximo de uma Coleção. | - |
+| 18  | Encontrando o valor máximo de uma Coleção. | Collections | ✅ |
 | 19  | Uma implementação de Map que mantém os elementos na mesma ordem que foram inseridos. | - |
 | 20  | Utilizando o Jimfs da Google para escrever testes que usam um sistema de arquivos em memória. | - |
 | 21  | Usando o WireMock para simular um servidor web. | WireMock |
