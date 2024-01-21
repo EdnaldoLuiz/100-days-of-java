@@ -24,8 +24,8 @@
 | 18  | Encontrando o valor máximo de uma Coleção. | Collections | ✅ |
 | 19  | Uma implementação de Map que mantém os elementos na mesma ordem que foram inseridos. | LinkedHashMap | ✅ |
 | 20  | Listar todas as fontes do seu sistema. | GraphicsEnvironment | ✅ |
-| 21  | Usando o WireMock para simular um servidor web. | WireMock |
-| 22  | Mapeando e reduzindo de uma Lista. | - |
+| 21  | Mapeando e reduzindo de uma Lista. | - | ✅ |
+| 22  | Usando o WireMock para simular um servidor web. | WireMock |
 | 23  | Carregando propriedades de um arquivo. | - |
 | 24  | Executando comandos do sistema operacional. | - |
 | 25  | Correspondência de padrões para instanceof no JDK 16. | - |
