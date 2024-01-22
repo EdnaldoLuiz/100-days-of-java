@@ -25,9 +25,9 @@
 | 19  | Uma implementação de Map que mantém os elementos na mesma ordem que foram inseridos. | LinkedHashMap | ✅ |
 | 20  | Listar todas as fontes do seu sistema. | GraphicsEnvironment | ✅ |
 | 21  | Mapeando e reduzindo de uma Lista. | - | ✅ |
-| 22  | Usando o WireMock para simular um servidor web. | WireMock |
-| 23  | Carregando propriedades de um arquivo. | - |
-| 24  | Executando comandos do sistema operacional. | - |
+| 22  | Executando comandos do sistema operacional. | - | ✅ |
+| 23  | Usando o WireMock para simular um servidor web. | WireMock |
+| 24  | Carregando propriedades de um arquivo. | - |
 | 25  | Correspondência de padrões para instanceof no JDK 16. | - |
 | 26  | Utilizando Optional quando null é um valor de retorno válido. | Optional |
 | 27  | Criando uma String a partir de uma Lista: um item por linha. | - |
