@@ -28,7 +28,7 @@
 | 22  | Executando comandos do sistema operacional. | ProcessBuilder, Process | ✅ |
 | 23  | Transformar um array de Enum em um array de String. | Arrays | ✅ |
 | 24  | Descobrindo o gasto de memoria da JVM. | Runtime | ✅ |
-| 25  | Correspondência de padrões para instanceof no JDK 16. | - |
+| 25  | Correspondência de padrões para instanceof no JDK 16. | - | ✅ |
 | 26  | Utilizando Optional quando null é um valor de retorno válido. | Optional |
 | 27  | Criando uma String a partir de uma Lista: um item por linha. | - |
 | 28  | Ordenando uma Lista por um atributo específico. | - |
