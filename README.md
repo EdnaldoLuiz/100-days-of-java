@@ -33,8 +33,8 @@
 | 27  | Criando uma String a partir de uma Lista: um item por linha. | - | ✅ |
 | 28  | Ordenando uma Lista por um atributo específico. | - | ✅ |
 | 29  | Criando Strings de várias linhas. | - | ✅ |
-| 30  | Utilizando o Awaitility para esperar uma tarefa terminar. | Awaitility |
-| 31  | Convertendo um Stream para Lista no JDK 16. | - |
+| 30  | Convertendo um Stream para Lista no JDK 16. | - | ✅ |
+| 31  | Utilizando o Awaitility para esperar uma tarefa terminar. | Awaitility |
 | 32  | Utilizando switch para retornar um valor. | - |
 | 33  | Começando a usar o Optional#orElseThrow em vez de Optional#get. | Optional |
 | 34  | Imprimindo informações sobre todos os processos Java em execução na máquina. | - |
