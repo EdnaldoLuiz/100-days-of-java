@@ -34,9 +34,9 @@
 | 28  | Ordenando uma Lista por um atributo específico. | - | ✅ |
 | 29  | Criando Strings de várias linhas. | - | ✅ |
 | 30  | Convertendo um Stream para Lista no JDK 16. | - | ✅ |
-| 31  | Utilizando o Awaitility para esperar uma tarefa terminar. | Awaitility |
-| 32  | Utilizando switch para retornar um valor. | - |
-| 33  | Começando a usar o Optional#orElseThrow em vez de Optional#get. | Optional |
+| 31  | Utilizando switch para retornar um valor. | - | ✅ |
+| 32  | Começando a usar o Optional#orElseThrow em vez de Optional#get. | Optional | ✅ |
+| 33  | Utilizando o Awaitility para esperar uma tarefa terminar. | Awaitility |
 | 34  | Imprimindo informações sobre todos os processos Java em execução na máquina. | - |
 | 35  | Recursos de autoclosing (try-with-resources). | - |
 | 36  | Utilizando javax.annotation.Nonnull (JSR 305) para evitar NullPointerException. | - |
