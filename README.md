@@ -37,7 +37,7 @@
 | 31  | Utilizando switch para retornar um valor. | - | ✅ |
 | 32  | Começando a usar o Optional#orElseThrow em vez de Optional#get. | Optional | ✅ |
 | 33  | Utilizando um bloco de código estaticamente. | - | ✅ |
-| 34  | Imprimindo informações sobre todos os processos Java em execução na máquina. | - |
+| 34  | Imprimindo informações sobre todos os processos Java em execução na máquina. | - | ✅ |
 | 35  | Recursos de autoclosing (try-with-resources). | - |
 | 36  | Utilizando javax.annotation.Nonnull (JSR 305) para evitar NullPointerException. | - |
 | 37  | Utilizando Objects.requireNonNullElse quando Optional não é uma opção. | Objects |
