@@ -39,8 +39,8 @@
 | 33  | Utilizando um bloco de código estaticamente. | - | ✅ |
 | 34  | Imprimindo informações sobre todos os processos Java em execução na máquina. | - | ✅ |
 | 35  | Recursos de autoclosing (try-with-resources). | - | ✅ |
-| 36  | Utilizando javax.annotation.Nonnull (JSR 305) para evitar NullPointerException. | - |
-| 37  | Utilizando Objects.requireNonNullElse quando Optional não é uma opção. | Objects |
+| 36  | Utilizando Objects.requireNonNullElse quando Optional não é uma opção. | Objects | ✅ |
+| 37  | Utilizando javax.annotation.Nonnull (JSR 305) para evitar NullPointerException. | - |
 | 38  | Fornecendo um valor padrão em caso de timeout ao executar uma tarefa assíncrona. | - |
 | 39  | Compreendendo os Operadores de Prefixo (i) e Sufixo (i). | - |
 | 40  | Filtrando um Stream usando Predicate#not. | Predicate |
