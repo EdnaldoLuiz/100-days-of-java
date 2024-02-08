@@ -42,7 +42,7 @@
 | 36  | Utilizando Objects.requireNonNullElse quando Optional não é uma opção. | Objects | ✅ |
 | 37  | Compreendendo os Operadores de Prefixo (i) e Sufixo (i). | - | ✅ |
 | 38  | Utilizando uma Matriz para percorrer valores. | - | ✅ |
-| 39  | Fornecendo um valor padrão em caso de timeout ao executar uma tarefa assíncrona. | - |
+| 39  | Fornecendo um valor padrão em caso de timeout ao executar uma tarefa assíncrona. | - | ✅ |
 | 40  | Filtrando um Stream usando Predicate#not. | Predicate |
 | 41  | Quiz sobre Collections#unmodifiableList. | Collections |
 | 42  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
