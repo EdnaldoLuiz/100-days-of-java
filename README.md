@@ -45,8 +45,8 @@
 | 39  | Fornecendo um valor padrão em caso de timeout ao executar uma tarefa assíncrona. | - | ✅ |
 | 40  | Filtrando um Stream usando Predicate#not. | Predicate | ✅ |
 | 41  | Crie uma unmodifiableList usando Collections. | Collections | ✅ |
-| 42  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
-| 43  | Indentando uma String. | - |
+| 42  | Indentando uma String. | - | ✅ |
+| 43  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
 | 44  | Formatando Strings com java.lang.String#formatted. | String |
 | 45  | Utilizando java.util.Comparator#comparing para ordenar uma Lista. | Comparator |
 | 46  | Utilizando Function para mapear uma Lista de um tipo para outro. | Function |
