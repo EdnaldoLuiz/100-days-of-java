@@ -46,7 +46,7 @@
 | 40  | Filtrando um Stream usando Predicate#not. | Predicate | ✅ |
 | 41  | Crie uma unmodifiableList usando Collections. | Collections | ✅ |
 | 42  | Indentando uma String. | - | ✅ |
-| 43  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
+| 43  | Utilizando StringJoiner. | StringJoiner | ✅ |
 | 44  | Formatando Strings com java.lang.String#formatted. | String |
 | 45  | Utilizando java.util.Comparator#comparing para ordenar uma Lista. | Comparator |
 | 46  | Utilizando Function para mapear uma Lista de um tipo para outro. | Function |
@@ -93,7 +93,7 @@
 | 87  | Verificando se uma classe é anotada por uma anotação específica. | Reflection |
 | 88  | Verificando se um campo é anotado por uma anotação específica. | Reflection |
 | 89  | Escrevendo um Validador de Bean. | Bean Validation |
-| 90  | Utilizando StringJoiner. | StringJoiner |
+| 90  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
 | 91  | Removendo elementos duplicados de uma Lista. | Collections |
 | 92  | Somando os elementos de uma Lista. | Collections |
 | 93  | Nunca retornar null em um método que tem uma Coleção como tipo de retorno. | Collections |
