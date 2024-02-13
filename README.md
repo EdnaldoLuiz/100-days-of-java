@@ -47,7 +47,7 @@
 | 41  | Crie uma unmodifiableList usando Collections. | Collections | ✅ |
 | 42  | Indentando uma String. | - | ✅ |
 | 43  | Utilizando StringJoiner. | StringJoiner | ✅ |
-| 44  | Formatando Strings com java.lang.String#formatted. | String |
+| 44  | Formatando Strings com java.lang.String#formatted. | String | ✅ |
 | 45  | Utilizando java.util.Comparator#comparing para ordenar uma Lista. | Comparator |
 | 46  | Utilizando Function para mapear uma Lista de um tipo para outro. | Function |
 | 47  | Criando uma Interface Funcional. | FunctionalInterface |
