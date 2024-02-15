@@ -49,7 +49,7 @@
 | 43  | Utilizando StringJoiner. | StringJoiner | ✅ |
 | 44  | Formatando Strings com java.lang.String#formatted. | String | ✅ |
 | 45  | Utilizando java.util.Comparator#comparing para ordenar uma Lista. | Comparator | ✅ |
-| 46  | Utilizando Function para mapear uma Lista de um tipo para outro. | Function |
+| 46  | Utilizando Function para mapear uma Lista de um tipo para outro. | Function | ✅ |
 | 47  | Criando uma Interface Funcional. | FunctionalInterface |
 | 48  | Não se repita: Reutilizando funções com Function#andThen. | Function |
 | 49  | Function#identity: Criando uma função que sempre retorna seu argumento de entrada. | Function |
