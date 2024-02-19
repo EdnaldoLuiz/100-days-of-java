@@ -53,7 +53,7 @@
 | 47  | Criando uma Interface Funcional. | FunctionalInterface | ✅ |
 | 48  | Function#identity: Criando uma função que sempre retorna seu argumento de entrada. | Function | ✅ |
 | 49  | Não se repita: Reutilizando funções com Function#andThen. | Function | ✅ |
-| 50  | Criando um Stream a partir de um intervalo de Integers. | Stream |
+| 50  | Criando um Stream a partir de um intervalo de Integers. | Stream | ✅ |
 | 51  | Utilizando UnaryOperator. | UnaryOperator |
 | 52  | Tornando IOException não verificada. | IOException |
 | 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier |
