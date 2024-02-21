@@ -55,7 +55,7 @@
 | 49  | Não se repita: Reutilizando funções com Function#andThen. | Function | ✅ |
 | 50  | Criando um Stream a partir de um intervalo de Integers. | Stream | ✅ |
 | 51  | Utilizando UnaryOperator. | UnaryOperator | ✅ |
-| 52  | Tornando IOException não verificada. | IOException |
+| 52  | Tornando IOException não verificada. | IOException | ✅ |
 | 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier |
 | 54  | Computando valores de um Map se ausentes. | Map |
 | 55  | Criando asserções inteligentes e legíveis com AssertJ. | AssertJ |
