@@ -56,7 +56,7 @@
 | 50  | Criando um Stream a partir de um intervalo de Integers. | Stream | ✅ |
 | 51  | Utilizando UnaryOperator. | UnaryOperator | ✅ |
 | 52  | Tornando IOException não verificada. | IOException | ✅ |
-| 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier |
+| 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier | ✅ |
 | 54  | Computando valores de um Map se ausentes. | Map |
 | 55  | Criando asserções inteligentes e legíveis com AssertJ. | AssertJ |
 | 56  | Imprimindo caracteres coloridos no console. | ANSI Colors |
