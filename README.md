@@ -58,8 +58,8 @@
 | 52  | Tornando IOException não verificada. | IOException | ✅ |
 | 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier | ✅ |
 | 54  | Computando valores de um Map se ausentes. | Map | ✅ |
-| 55  | Criando asserções inteligentes e legíveis com AssertJ. | AssertJ |
-| 56  | Imprimindo caracteres coloridos no console. | ANSI Colors |
+| 55  | Imprimindo caracteres coloridos no console. | ANSI Colors | ✅ |
+| 56  | Criando asserções inteligentes e legíveis com AssertJ. | AssertJ |
 | 57  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 58  | Nunca escreva código que dependa do formato toString(). | - |
 | 59  | Utilizando um Predicate. | Predicate |
