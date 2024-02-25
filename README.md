@@ -59,7 +59,7 @@
 | 53  | Utilizando Supplier para executar uma criação de objeto cara apenas quando e se necessário. | Supplier | ✅ |
 | 54  | Computando valores de um Map se ausentes. | Map | ✅ |
 | 55  | Imprimindo caracteres coloridos no console. | ANSI Colors | ✅ |
-| 56  | Criando asserções inteligentes e legíveis com AssertJ. | AssertJ |
+| 56  | Converter uma String em uma lista de Long. | - | ✅ |
 | 57  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 58  | Nunca escreva código que dependa do formato toString(). | - |
 | 59  | Utilizando um Predicate. | Predicate |
