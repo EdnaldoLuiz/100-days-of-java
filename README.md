@@ -60,8 +60,8 @@
 | 54  | Computando valores de um Map se ausentes. | Map | ✅ |
 | 55  | Imprimindo caracteres coloridos no console. | ANSI Colors | ✅ |
 | 56  | Converter uma String em uma lista de Long. | - | ✅ |
-| 57  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
-| 58  | Nunca escreva código que dependa do formato toString(). | - |
+| 57  | Gerando um Stream infinito. | Stream | ✅ |
+| 58  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 59  | Utilizando um Predicate. | Predicate |
 | 60  | Encadeando Predicates. | Predicate |
 | 61  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
@@ -72,7 +72,7 @@
 | 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 67  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap |
 | 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
-| 69  | Gerando um Stream infinito. | Stream |
+| 69  | Nunca escreva código que dependa do formato toString(). | - |
 | 70  | Criando Testes Parametrizados com JUnit. | JUnit |
 | 71  | Utilizando CDI em uma aplicação standalone com Weld. | CDI, Weld |
 | 72  | Utilizando a anotação CDI @Named. | CDI |
