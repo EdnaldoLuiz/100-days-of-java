@@ -61,8 +61,8 @@
 | 55  | Imprimindo caracteres coloridos no console. | ANSI Colors | ✅ |
 | 56  | Converter uma String em uma lista de Long. | - | ✅ |
 | 57  | Gerando um Stream infinito. | Stream | ✅ |
-| 58  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
-| 59  | Utilizando um Predicate. | Predicate |
+| 58  | Utilizando um Predicate. | Predicate | ✅ |
+| 59  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 60  | Encadeando Predicates. | Predicate |
 | 61  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
 | 62  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
