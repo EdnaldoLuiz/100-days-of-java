@@ -63,11 +63,11 @@
 | 57  | Gerando um Stream infinito. | Stream | ✅ |
 | 58  | Utilizando um Predicate. | Predicate | ✅ |
 | 59  | Encadeando Predicates. | Predicate | ✅ |
-| 60  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
+| 60  | Particionando um Stream por um Predicate. | Predicate | ✅ |
 | 61  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
 | 62  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
 | 63  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
-| 64  | Particionando um Stream por um Predicate. | - |
+| 64  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics |
 | 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 67  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap |
