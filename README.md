@@ -64,13 +64,13 @@
 | 58  | Utilizando um Predicate. | Predicate | ✅ |
 | 59  | Encadeando Predicates. | Predicate | ✅ |
 | 60  | Particionando um Stream por um Predicate. | Predicate | ✅ |
-| 61  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
+| 61  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap | ✅ |
 | 62  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
 | 63  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
 | 64  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics |
 | 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
-| 67  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap |
+| 67  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
 | 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
 | 69  | Nunca escreva código que dependa do formato toString(). | - |
 | 70  | Criando Testes Parametrizados com JUnit. | JUnit |
