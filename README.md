@@ -65,7 +65,7 @@
 | 59  | Encadeando Predicates. | Predicate | ✅ |
 | 60  | Particionando um Stream por um Predicate. | Predicate | ✅ |
 | 61  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap | ✅ |
-| 62  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
+| 62  | Utilizando java.util.function.Consumer. | Consumer | ✅ |
 | 63  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
 | 64  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics |
@@ -77,7 +77,7 @@
 | 71  | Utilizando CDI em uma aplicação standalone com Weld. | CDI, Weld |
 | 72  | Utilizando a anotação CDI @Named. | CDI |
 | 73  | Utilizando Qualificadores CDI. | CDI |
-| 74  | Utilizando java.util.function.Consumer. | Consumer |
+| 74  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
 | 75  | Declarando Produtores específicos para Beans CDI. | CDI |
 | 76  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
 | 77  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
