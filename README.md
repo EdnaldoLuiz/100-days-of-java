@@ -66,7 +66,7 @@
 | 60  | Particionando um Stream por um Predicate. | Predicate | ✅ |
 | 61  | Utilizando EnumMap Quando a Chave do Seu Mapa é um Enum. | EnumMap | ✅ |
 | 62  | Utilizando java.util.function.Consumer. | Consumer | ✅ |
-| 63  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
+| 63  | Utilizando Classes Seladas do JDK 17. | Sealed Classes | ✅ |
 | 64  | Utilizando o Picocli para analisar argumentos de linha de comando. | Picocli |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics |
 | 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
@@ -83,7 +83,7 @@
 | 77  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
 | 78  | Criando uma Function genérica. | Function |
 | 79  | Utilizando o Padrão Factory para Encapsular Implementações. | Factory Pattern |
-| 80  | Utilizando Classes Seladas do JDK 17. | Sealed Classes |
+| 80  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
 | 81  | Encontrando a frequência de um elemento em uma Lista. | Collections |
 | 82  | Sempre fazer o cast dos operandos Math antes da atribuição. | - |
 | 83  | Utilizando MicroProfile Fault Tolerance para definir timeouts em endpoints. | MicroProfile Fault Tolerance |
