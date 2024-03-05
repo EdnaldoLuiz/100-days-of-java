@@ -68,7 +68,7 @@
 | 62  | Utilizando java.util.function.Consumer. | Consumer | ✅ |
 | 63  | Utilizando Classes Seladas do JDK 17. | Sealed Classes | ✅ |
 | 64  | Transforme uma variavel em todos os tipos de wrappers que herdam de Number. | - | ✅ |
-| 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics |
+| 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics | ✅ |
 | 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 67  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
 | 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
