@@ -69,8 +69,8 @@
 | 63  | Utilizando Classes Seladas do JDK 17. | Sealed Classes | ✅ |
 | 64  | Transforme uma variavel em todos os tipos de wrappers que herdam de Number. | - | ✅ |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics | ✅ |
-| 66  | Criando uma Function genérica. | Function |
-| 67  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
+| 66  | Criando uma Function genérica. | Function | ✅ |
+| 67  | Criando uma Interface de some e chamar seu método com um lambda. | - | ✅ |
 | 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
 | 69  | Nunca escreva código que dependa do formato toString(). | - |
 | 70  | Criando Testes Parametrizados com JUnit. | JUnit |
