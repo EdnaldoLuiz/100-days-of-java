@@ -69,7 +69,7 @@
 | 63  | Utilizando Classes Seladas do JDK 17. | Sealed Classes | ✅ |
 | 64  | Transforme uma variavel em todos os tipos de wrappers que herdam de Number. | - | ✅ |
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics | ✅ |
-| 66  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
+| 66  | Criando uma Function genérica. | Function |
 | 67  | Utilizando var: Boas práticas, conselhos e avisos de Stuart Marks. | var |
 | 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
 | 69  | Nunca escreva código que dependa do formato toString(). | - |
@@ -81,7 +81,7 @@
 | 75  | Declarando Produtores específicos para Beans CDI. | CDI |
 | 76  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
 | 77  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
-| 78  | Criando uma Function genérica. | Function |
+| 78  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 79  | Utilizando o Padrão Factory para Encapsular Implementações. | Factory Pattern |
 | 80  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
 | 81  | Encontrando a frequência de um elemento em uma Lista. | Collections |
