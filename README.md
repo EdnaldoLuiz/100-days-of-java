@@ -71,7 +71,7 @@
 | 65  | Reduzindo a verbosidade de Generics com Diamond Operators. | Generics | ✅ |
 | 66  | Criando uma Function genérica. | Function | ✅ |
 | 67  | Criando uma Interface de some e chamar seu método com um lambda. | - | ✅ |
-| 68  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
+| 68  | Encontrando a frequência de um elemento em uma Lista. | Collections | ✅ |
 | 69  | Nunca escreva código que dependa do formato toString(). | - |
 | 70  | Criando Testes Parametrizados com JUnit. | JUnit |
 | 71  | Utilizando CDI em uma aplicação standalone com Weld. | CDI, Weld |
@@ -84,7 +84,7 @@
 | 78  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 79  | Utilizando o Padrão Factory para Encapsular Implementações. | Factory Pattern |
 | 80  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
-| 81  | Encontrando a frequência de um elemento em uma Lista. | Collections |
+| 81  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
 | 82  | Sempre fazer o cast dos operandos Math antes da atribuição. | - |
 | 83  | Utilizando MicroProfile Fault Tolerance para definir timeouts em endpoints. | MicroProfile Fault Tolerance |
 | 84  | Utilizando MicroProfile Fault Tolerance para definir Retries em endpoints. | MicroProfile Fault Tolerance |
