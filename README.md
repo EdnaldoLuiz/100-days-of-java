@@ -72,7 +72,7 @@
 | 66  | Criando uma Function genérica. | Function | ✅ |
 | 67  | Criando uma Interface de some e chamar seu método com um lambda. | - | ✅ |
 | 68  | Encontrando a frequência de um elemento em uma Lista. | Collections | ✅ |
-| 69  | Nunca escreva código que dependa do formato toString(). | - |
+| 69  | Utilizando Method Reference e lambda. | - | ✅ |
 | 70  | Criando Testes Parametrizados com JUnit. | JUnit |
 | 71  | Utilizando CDI em uma aplicação standalone com Weld. | CDI, Weld |
 | 72  | Utilizando a anotação CDI @Named. | CDI |
