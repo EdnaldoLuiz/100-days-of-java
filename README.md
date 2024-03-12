@@ -74,9 +74,9 @@
 | 68  | Encontrando a frequência de um elemento em uma Lista. | Collections | ✅ |
 | 69  | Utilizando Method Reference e lambda. | - | ✅ |
 | 70  | Utilizando o padrão Builder para criar um Objeto. | - | ✅ |
-| 71  | Utilizando CDI em uma aplicação standalone com Weld. | CDI, Weld |
-| 72  | Utilizando a anotação CDI @Named. | CDI |
-| 73  | Utilizando Qualificadores CDI. | CDI |
+| 71  | Criar uma chain of responsability usando interface. | - | ✅ |
+| 72  | Utilizando a palavra reservada synchronized. | synchronized | ✅ |
+| 73  | Utilizando Reactive Streams a partir do Java 9. | Reactive Streams | ✅ |
 | 74  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
 | 75  | Declarando Produtores específicos para Beans CDI. | CDI |
 | 76  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
@@ -97,7 +97,7 @@
 | 91  | Removendo elementos duplicados de uma Lista. | Collections |
 | 92  | Somando os elementos de uma Lista. | Collections |
 | 93  | Nunca retornar null em um método que tem uma Coleção como tipo de retorno. | Collections |
-| 94  | Utilizando Reactive Streams a partir do Java 9. | Reactive Streams |
+| 94  | Utilizando a anotação CDI @Named. | CDI |
 | 95  | Utilizando o Datafaker para criar dados falsos para testes. | Datafaker |
 | 96  | Disparando e Observando Eventos CDI. | CDI |
 | 97  | Utilizando a API de Dinheiro e Moeda (JSR 354). | Money and Currency API |
