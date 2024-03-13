@@ -76,8 +76,8 @@
 | 70  | Utilizando o padrão Builder para criar um Objeto. | - | ✅ |
 | 71  | Criar uma chain of responsability usando interface. | - | ✅ |
 | 72  | Utilizando a palavra reservada synchronized. | synchronized | ✅ |
-| 73  | Utilizando Reactive Streams a partir do Java 9. | Reactive Streams | ✅ |
-| 74  | Convertendo JSON para Objeto e Objeto para JSON usando o Jakarta JSON Binding (JSON-B). | JSON-B |
+| 73  | Utilizar CompletableFuture para criar uma task| CompletableFuture | ✅ |
+| 74  | Utilizando Reactive Streams a partir do Java 9. | Reactive Streams |
 | 75  | Declarando Produtores específicos para Beans CDI. | CDI |
 | 76  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
 | 77  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
