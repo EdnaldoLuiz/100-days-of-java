@@ -78,14 +78,14 @@
 | 72  | Utilizando a palavra reservada synchronized. | synchronized | ✅ |
 | 73  | Utilizar CompletableFuture para criar uma task| CompletableFuture | ✅ |
 | 74  | Utilizando Reactive Streams a partir do Java 9. | Reactive Streams | ✅ |
-| 75  | Declarando Produtores específicos para Beans CDI. | CDI |
-| 76  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
-| 77  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
+| 75  | Removendo elementos duplicados de uma Lista. | Collections | ✅ |
+| 76  | Somando os elementos de uma Lista. | Collections | ✅ |
+| 77  | Sempre fazer o cast dos operandos Math antes da atribuição. | - | ✅ |
 | 78  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
 | 79  | Utilizando o Padrão Factory para Encapsular Implementações. | Factory Pattern |
 | 80  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
 | 81  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
-| 82  | Sempre fazer o cast dos operandos Math antes da atribuição. | - |
+| 82  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
 | 83  | Utilizando MicroProfile Fault Tolerance para definir timeouts em endpoints. | MicroProfile Fault Tolerance |
 | 84  | Utilizando MicroProfile Fault Tolerance para definir Retries em endpoints. | MicroProfile Fault Tolerance |
 | 85  | Utilizando MicroProfile Fault Tolerance para definir Retries em endpoints para Exceções específicas. | MicroProfile Fault Tolerance |
@@ -94,8 +94,8 @@
 | 88  | Verificando se um campo é anotado por uma anotação específica. | Reflection |
 | 89  | Escrevendo um Validador de Bean. | Bean Validation |
 | 90  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
-| 91  | Removendo elementos duplicados de uma Lista. | Collections |
-| 92  | Somando os elementos de uma Lista. | Collections |
+| 91  | Declarando Produtores específicos para Beans CDI. | CDI |
+| 92  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
 | 93  | Nunca retornar null em um método que tem uma Coleção como tipo de retorno. | Collections |
 | 94  | Utilizando a anotação CDI @Named. | CDI |
 | 95  | Utilizando o Datafaker para criar dados falsos para testes. | Datafaker |
