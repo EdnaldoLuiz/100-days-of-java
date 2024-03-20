@@ -81,26 +81,26 @@
 | 75  | Removendo elementos duplicados de uma Lista. | Collections | ✅ |
 | 76  | Somando os elementos de uma Lista. | Collections | ✅ |
 | 77  | Sempre fazer o cast dos operandos Math antes da atribuição. | - | ✅ |
-| 78  | Substituindo o Lombok por Java Puro. | Lombok, Java Puro |
-| 79  | Utilizando o Padrão Factory para Encapsular Implementações. | Factory Pattern |
-| 80  | Utilizando MicroProfile Fault Tolerance para criar um método de fallback. | MicroProfile Fault Tolerance |
-| 81  | Utilizando o StackWalker do JDK 9 para encontrar uma Classe no Rastreamento de Pilha. | StackWalker |
-| 82  | Um canal do YouTube com várias apresentações de Java Champions e Desenvolvedores de Código Aberto. | - |
-| 83  | Utilizando MicroProfile Fault Tolerance para definir timeouts em endpoints. | MicroProfile Fault Tolerance |
-| 84  | Utilizando MicroProfile Fault Tolerance para definir Retries em endpoints. | MicroProfile Fault Tolerance |
-| 85  | Utilizando MicroProfile Fault Tolerance para definir Retries em endpoints para Exceções específicas. | MicroProfile Fault Tolerance |
-| 86  | Utilizando o Padrão de Delegação para escrever código desacoplado e testável. | Delegation Pattern |
-| 87  | Verificando se uma classe é anotada por uma anotação específica. | Reflection |
-| 88  | Verificando se um campo é anotado por uma anotação específica. | Reflection |
-| 89  | Escrevendo um Validador de Bean. | Bean Validation |
-| 90  | Utilizando jinfo para atualizar flags VM gerenciáveis em tempo de execução. | jinfo |
-| 91  | Declarando Produtores específicos para Beans CDI. | CDI |
-| 92  | Criando um servidor REST com JAX-RS (e Quarkus como tempo de execução). | JAX-RS, Quarkus |
-| 93  | Nunca retornar null em um método que tem uma Coleção como tipo de retorno. | Collections |
-| 94  | Utilizando a anotação CDI @Named. | CDI |
-| 95  | Utilizando o Datafaker para criar dados falsos para testes. | Datafaker |
-| 96  | Disparando e Observando Eventos CDI. | CDI |
-| 97  | Utilizando a API de Dinheiro e Moeda (JSR 354). | Money and Currency API |
-| 98  | Utilizando Interceptadores CDI para criar anotações validadoras. | CDI |
-| 99  | Em Java, TODO parâmetro é passado por valor (cópia). | - |
-| 100 | Benchmark: Optional vs Nullable. | - |
+| 78  | Criando um array bidimensional. | - | ❌ |
+| 79  | Trabalhando com LocalDate e LocalTime. | LocalDate, LocalTime | ❌ |
+| 80  | Manipulando arquivos com a classe File. | File | ❌ |
+| 81  | Lendo e escrevendo em arquivos com a classe Files. | Files | ❌ |
+| 82  | Trabalhando com Path e Paths para manipulação de arquivos. | Path, Paths | ❌ |
+| 83  | Utilizando a classe Scanner para ler entrada do usuário. | Scanner | ❌ |
+| 84  | Trabalhando com expressões regulares e a classe Pattern. | Pattern | ❌ |
+| 85  | Criando e manipulando conjuntos com a classe Set. | Set | ❌ |
+| 86  | Trabalhando com filas usando a interface Queue. | Queue | ❌ |
+| 87  | Utilizando a classe Stack para criar uma pilha. | Stack | ❌ |
+| 88  | Trabalhando com datas e horas usando a classe ZonedDateTime. | ZonedDateTime | ❌ |
+| 89  | Criando e manipulando mapas com a classe TreeMap. | TreeMap | ❌ |
+| 90  | Trabalhando com a classe Random para gerar números aleatórios. | Random | ❌ |
+| 91  | Criando e manipulando listas com a classe LinkedList. | LinkedList | ❌ |
+| 92  | Trabalhando com a classe StringBuilder para manipular strings. | StringBuilder | ❌ |
+| 93  | Utilizando a classe Math para realizar operações matemáticas. | Math | ❌ |
+| 94  | Trabalhando com a classe BigInteger para números inteiros de tamanho arbitrário. | BigInteger | ❌ |
+| 95  | Utilizando a classe BigDecimal para números decimais de precisão arbitrária. | BigDecimal | ❌ |
+| 96  | Trabalhando com a classe AtomicInteger para operações atômicas em inteiros. | AtomicInteger | ❌ |
+| 97  | Utilizando a classe AtomicReference para operações atômicas em referências. | AtomicReference | ❌ |
+| 98  | Trabalhando com a classe OptionalDouble para valores double opcionais. | OptionalDouble | ❌ |
+| 99  | Utilizando a classe Timer para agendar tarefas. | Timer | ❌ |
+| 100 | Trabalhando com a classe Properties para ler e escrever propriedades. | Properties | ❌ |
