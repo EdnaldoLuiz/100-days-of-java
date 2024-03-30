@@ -81,19 +81,19 @@
 | 75  | Removendo elementos duplicados de uma Lista. | Collections | ✅ |
 | 76  | Somando os elementos de uma Lista. | Collections | ✅ |
 | 77  | Sempre fazer o cast dos operandos Math antes da atribuição. | - | ✅ |
-| 78  | Criando um array bidimensional. | - | ❌ |
-| 79  | Trabalhando com LocalDate e LocalTime. | LocalDate, LocalTime | ❌ |
-| 80  | Manipulando arquivos com a classe File. | File | ❌ |
-| 81  | Lendo e escrevendo em arquivos com a classe Files. | Files | ❌ |
-| 82  | Trabalhando com Path e Paths para manipulação de arquivos. | Path, Paths | ❌ |
-| 83  | Utilizando a classe Scanner para ler entrada do usuário. | Scanner | ❌ |
-| 84  | Trabalhando com expressões regulares e a classe Pattern. | Pattern | ❌ |
-| 85  | Criando e manipulando conjuntos com a classe Set. | Set | ❌ |
-| 86  | Trabalhando com filas usando a interface Queue. | Queue | ❌ |
-| 87  | Utilizando a classe Stack para criar uma pilha. | Stack | ❌ |
-| 88  | Trabalhando com datas e horas usando a classe ZonedDateTime. | ZonedDateTime | ❌ |
-| 89  | Criando e manipulando mapas com a classe TreeMap. | TreeMap | ❌ |
-| 90  | Trabalhando com a classe Random para gerar números aleatórios. | Random | ❌ |
+| 78  | Criando um array bidimensional. | - | ✅ |
+| 79  | Trabalhando com LocalDate e LocalTime. | LocalDate, LocalTime | ✅ |
+| 80  | Manipulando arquivos com a classe File. | File | ✅ |
+| 81  | Lendo e escrevendo em arquivos com a classe Files. | Files | ✅ |
+| 82  | Trabalhando com Path e Paths para manipulação de arquivos. | Path, Paths | ✅ |
+| 83  | Utilizando a classe Scanner para ler entrada do usuário. | Scanner | ✅ |
+| 84  | Trabalhando com expressões regulares e a classe Pattern. | Pattern | ✅ |
+| 85  | Criando e manipulando conjuntos com a classe Set. | Set | ✅ |
+| 86  | Trabalhando com filas usando a interface Queue. | Queue | ✅ |
+| 87  | Utilizando a classe Stack para criar uma pilha. | Stack | ✅ |
+| 88  | Trabalhando com datas e horas usando a classe ZonedDateTime. | ZonedDateTime | ✅ |
+| 89  | Criando e manipulando mapas com a classe TreeMap. | TreeMap | ✅ |
+| 90  | Trabalhando com a classe Random para gerar números aleatórios. | Random | ✅ |
 | 91  | Criando e manipulando listas com a classe LinkedList. | LinkedList | ❌ |
 | 92  | Trabalhando com a classe StringBuilder para manipular strings. | StringBuilder | ❌ |
 | 93  | Utilizando a classe Math para realizar operações matemáticas. | Math | ❌ |
