@@ -95,7 +95,7 @@
 | 89  | Criando e manipulando mapas com a classe TreeMap. | TreeMap | ✅ |
 | 90  | Trabalhando com a classe Random para gerar números aleatórios. | Random | ✅ |
 | 91  | Criando e manipulando listas com a classe LinkedList. | LinkedList | ✅ |
-| 92  | Trabalhando com a classe StringBuilder para manipular strings. | StringBuilder | ❌ |
+| 92  | Trabalhando com a classe StringBuilder para manipular strings. | StringBuilder | ✅ |
 | 93  | Utilizando a classe Math para realizar operações matemáticas. | Math | ❌ |
 | 94  | Trabalhando com a classe BigInteger para números inteiros de tamanho arbitrário. | BigInteger | ❌ |
 | 95  | Utilizando a classe BigDecimal para números decimais de precisão arbitrária. | BigDecimal | ❌ |
