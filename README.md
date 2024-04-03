@@ -97,7 +97,7 @@
 | 91  | Criando e manipulando listas com a classe LinkedList. | LinkedList | ✅ |
 | 92  | Trabalhando com a classe StringBuilder para manipular strings. | StringBuilder | ✅ |
 | 93  | Utilizando a classe Math para realizar operações matemáticas. | Math | ✅ |
-| 94  | Trabalhando com a classe BigInteger para números inteiros de tamanho arbitrário. | BigInteger | ❌ |
+| 94  | Trabalhando com a classe BigInteger para números inteiros de tamanho arbitrário. | BigInteger | ✅ |
 | 95  | Utilizando a classe BigDecimal para números decimais de precisão arbitrária. | BigDecimal | ❌ |
 | 96  | Trabalhando com a classe AtomicInteger para operações atômicas em inteiros. | AtomicInteger | ❌ |
 | 97  | Utilizando a classe AtomicReference para operações atômicas em referências. | AtomicReference | ❌ |
