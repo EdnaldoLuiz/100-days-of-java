@@ -102,5 +102,5 @@
 | 96  | Trabalhando com a classe AtomicInteger para operações atômicas em inteiros. | AtomicInteger | ✅ |
 | 97  | Utilizando a classe AtomicReference para operações atômicas em referências. | AtomicReference | ✅ |
 | 98  | Trabalhando com a classe OptionalDouble para valores double opcionais. | OptionalDouble | ✅ |
-| 99  | Utilizando a classe Timer para agendar tarefas. | Timer | ❌ |
+| 99  | Utilizando a classe Timer para agendar tarefas. | Timer | ✅ |
 | 100 | Trabalhando com a classe Properties para ler e escrever propriedades. | Properties | ❌ |
