@@ -1,4 +1,23 @@
-# 100 Days of Java
+<h1 align=center>100 Days Of Java</h1>
+
+<div align="center">
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/876/78/desktop-wallpaper-java-glitter-logo-programming-language-grid-java-logo.jpg" alt="Java Logo"
+  width="600px"/>
+</div>
+
+## O que é isso?
+
+Este projeto é mais um da série que faço, inspirado no [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) do Free Code Camp, com algumas adaptações minhas, realizando 100 dias de desafios de linguagens/frameworks específicos, como por exemplo:
+- [100 Days Of NodeJS](https://github.com/EdnaldoLuiz/100-days-of-node-js)
+- [100 Days Of Python](https://github.com/EdnaldoLuiz/100-days-of-python)
+
+<div align=center>
+    <img src="https://repository-images.githubusercontent.com/344494700/f3cb0880-895f-11eb-8e3e-1eb4456d34df" alt="" width="600px">
+</div>
+
+## Por que eu fiz esse desafio?
+
+Java é a minha linguagem de programação favorita, sendo aonde comecei no mundo da programação, aonde academicamente tenho 2 anos de XP e profissionalmente 1 ano com a mesma e a linguagem que trabalho no momento. Reforçar o conhecimento sobre algo que você utiliza diariamente e ter uma base é essencial para a evoluiçaõ profissional, então mesmo alguns desafios sendo simples, são indispensaveis e muitas vezes ficamos muito presos aos frameworks e esquecemos da base com recursos como Threads, Gerenciamento de Memoria e outros conceitos.
 
 ## Desafios
 
